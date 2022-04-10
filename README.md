@@ -1,1 +1,1 @@
-# pet-store-jmeter
+# pet-store-jmeter-performance-tests
